@@ -1,2 +1,5 @@
 # ethereum-develop
-本部分设计到的理论知识点的记录都会记录在https://mirror.xyz/road2web3.eth
+本来规划是学习过程中的东西全部都放在一个repository中
+但是显得太过于复杂、凌乱
+so
+本repository只记录remix以及truffle开发工具
